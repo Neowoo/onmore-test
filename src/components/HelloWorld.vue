@@ -17,7 +17,7 @@ export default {
   },
   data () {
     return {
-      popupShow: true
+      popupShow: false
     }
   },
   methods: {
